@@ -1,0 +1,5 @@
+include ':domainModule'
+include ':dataModule'
+include ':useCases'
+include ':app'
+rootProject.name = "CleanArchSample"
